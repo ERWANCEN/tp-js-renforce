@@ -144,7 +144,6 @@ class Fight {
         
         
         
-
         for (let i = 0; i < 10; i++) {
 
             console.log(`==================== ROUND ${i + 1} ====================`);
@@ -276,10 +275,3 @@ class Fight {
 }
 
 const fight = new Fight();
-
-/* if joueur 1 frappe en premier
-    console.log("Machin frappe en premier")
-    for (blablabla) {
-        console.log("Tout le texte");
-    }
-*/
